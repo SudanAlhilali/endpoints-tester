@@ -7,7 +7,7 @@ visit the website here [Endpoints Tester](https://www.google.com)
 ## Features
 
 - Methods
- <img align="center" src="https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20152755.png" />
+ <img align="center" src="https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-32-58%20React%20App.png" />
 - Query params
 - Headers
    <img  align="center" src"https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-32-58%20React%20App.png">
