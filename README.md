@@ -1,16 +1,7 @@
-#Endpoints Tester
+# Endpoints Tester
+
 is easy and simple way to test an endpoint using various of methods like post get ...etc.
 
 visit the website here [Endpoints Tester](https://www.google.com)
 
-##Features
-
-- Methods
-  <img src"">
-- Query params
-- Headers
-  <img src"">
-- Body(json format)
-  <img src"">
-
-<img src"">
+<img src="https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-29-39%20React%20App.png"/>
