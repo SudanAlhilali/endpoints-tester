@@ -7,11 +7,11 @@ visit the website here [Endpoints Tester](https://www.google.com)
 ## Features
 
 - Methods
-  <img src"">
+ <img align="center" src="https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20152755.png" />
 - Query params
 - Headers
-  <img src"">
+  <img  align="center" src"https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-32-58%20React%20App.png">
 - Body(json format)
-  <img src"">
+  <img align="center" src"https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-38-51%20React%20App.png">
 
-<img src"">
+<img align="center" src"https://raw.githubusercontent.com/SudanAlhilali/endpoints-tester/main/src/screenshots/Screenshot%202022-08-18%20at%2015-29-39%20React%20App.png">
