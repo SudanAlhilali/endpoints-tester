@@ -115,7 +115,11 @@ function Home() {
             href="https://www.linkedin.com/in/sudan-alhilali/"
             rel="noopener noreferrer"
           >
-            <FontAwesomeIcon icon={faLinkedin} className="text-5xl" />
+            <FontAwesomeIcon
+              icon={faLinkedin}
+              className="text-5xl"
+              rel="noopener noreferrer"
+            />
           </a>
         </div>
       </div>
