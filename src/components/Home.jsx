@@ -108,10 +108,13 @@ function Home() {
       <div className="flex flex-col  justify-center items-center">
         <div className="text-3xl bold mb-2">Developed By Sudan Alhilali</div>
         <div className="flex flex-row justify-center-items-center">
-          <a href="https://github.com/SudanAlhilali" target="_blank">
+          <a href="https://github.com/SudanAlhilali" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faSquareGithub} className="text-5xl mr-4" />
           </a>
-          <a href="https://www.linkedin.com/in/sudan-alhilali/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/sudan-alhilali/"
+            rel="noopener noreferrer"
+          >
             <FontAwesomeIcon icon={faLinkedin} className="text-5xl" />
           </a>
         </div>
