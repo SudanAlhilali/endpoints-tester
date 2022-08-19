@@ -1,6 +1,6 @@
 # Endpoints Tester
 
-is easy and simple way to test an endpoint using various of methods like post get ...etc.
+is an easy and a simple way to test an endpoint using various of methods like post get ...etc.
 
 visit the website here [Endpoints Tester](https://endpoints-tester.netlify.app/)
 
